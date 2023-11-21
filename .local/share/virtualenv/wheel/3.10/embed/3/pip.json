@@ -1,0 +1,25 @@
+{
+  "completed": "2023-11-06T06:55:14.842755Z",
+  "periodic": true,
+  "started": "2023-11-06T06:54:55.344765Z",
+  "versions": [
+    {
+      "filename": "pip-23.3.1-py3-none-any.whl",
+      "found_date": "2023-11-06T06:54:56.666788Z",
+      "release_date": "2023-10-21T11:10:25.000000Z",
+      "source": "periodic"
+    },
+    {
+      "filename": "pip-23.3-py3-none-any.whl",
+      "found_date": "2023-11-06T06:55:05.557923Z",
+      "release_date": "2023-10-15T16:24:10.000000Z",
+      "source": "periodic"
+    },
+    {
+      "filename": "pip-23.2.1-py3-none-any.whl",
+      "found_date": "2023-11-06T06:55:10.669963Z",
+      "release_date": "2023-07-22T09:17:31.000000Z",
+      "source": "periodic"
+    }
+  ]
+}
